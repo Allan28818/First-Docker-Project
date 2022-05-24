@@ -1,0 +1,22 @@
+{
+  "name": "docker-tutorial",
+  "version": "1.0.0",
+  "description": "First Node project in Docker",
+  "author": "Allan Julie Fontes de Oliveira - allanzinhofontes@gmail.com",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/server.ts",
+    "start": "node dist/server.js",
+    "build": "npx tsc"
+  },
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.34",
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
