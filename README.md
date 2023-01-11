@@ -1,5 +1,5 @@
 <p  align="center">
-  <img src="https://docs.docker.com/images/docker-icon.svg" width="150" height="150"/>
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="170" height="150"/>
 </p>
 
 # First-Docker-Project
